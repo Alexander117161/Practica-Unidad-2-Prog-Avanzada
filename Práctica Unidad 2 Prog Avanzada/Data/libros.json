@@ -1,0 +1,560 @@
+[
+    {
+        "titulo": "Cien Años de Soledad",
+        "autor": "Gabriel García Márquez",
+        "genero": "Realismo Mágico",
+        "disponible": false
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Distopía",
+        "disponible": false
+    },
+    {
+        "titulo": "Orgullo y Prejuicio",
+        "autor": "Jane Austen",
+        "genero": "Romance",
+        "disponible": false
+    },
+    {
+        "titulo": "El Padrino",
+        "autor": "Mario Puzo",
+        "genero": "Crimen, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "La lista de Schindler",
+        "autor": "Thomas Keneally",
+        "genero": "Biografía, Drama, Historia",
+        "disponible": true
+    },
+    {
+        "titulo": "Forrest Gump",
+        "autor": "Winston Groom",
+        "genero": "Drama, Romance",
+        "disponible": true
+    },
+    {
+        "titulo": "Inception",
+        "autor": "Christopher Nolan",
+        "genero": "Acción, Ciencia ficción, Thriller",
+        "disponible": true
+    },
+    {
+        "titulo": "The Dark Knight",
+        "autor": "Jonathan Nolan, Christopher Nolan",
+        "genero": "Acción, Crimen, Drama",
+        "disponible": false
+    },
+    {
+        "titulo": "Gladiator",
+        "autor": "David Franzoni",
+        "genero": "Acción, Aventura, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "Titanic",
+        "autor": "James Cameron",
+        "genero": "Drama, Romance",
+        "disponible": true
+    },
+    {
+        "titulo": "The Shawshank Redemption",
+        "autor": "Stephen King",
+        "genero": "Drama",
+        "disponible": false
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "autor": "Quentin Tarantino",
+        "genero": "Crimen, Drama",
+        "disponible": false
+    },
+    {
+        "titulo": "The Godfather Part II",
+        "autor": "Mario Puzo",
+        "genero": "Crimen, Drama",
+        "disponible": false
+    },
+    {
+        "titulo": "The Lord of the Rings: The Return of the King",
+        "autor": "J.R.R. Tolkien",
+        "genero": "Aventura, Drama, Fantasía",
+        "disponible": true
+    },
+    {
+        "titulo": "The Matrix",
+        "autor": "Lana Wachowski, Lilly Wachowski",
+        "genero": "Acción, Ciencia ficción",
+        "disponible": true
+    },
+    {
+        "titulo": "Fight Club",
+        "autor": "Chuck Palahniuk",
+        "genero": "Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "The Social Network",
+        "autor": "Aaron Sorkin",
+        "genero": "Biografía, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "genero": "Aventura, Satira",
+        "disponible": true
+    },
+    {
+        "titulo": "Crimen y Castigo",
+        "autor": "Fiódor Dostoyevski",
+        "genero": "Psicológico, Filosófico",
+        "disponible": false
+    },
+    {
+        "titulo": "La Odisea",
+        "autor": "Homero",
+        "genero": "Épico, Aventura",
+        "disponible": true
+    },
+    {
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "genero": "Terror, Gótico",
+        "disponible": false
+    },
+    {
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "genero": "Ciencia ficción, Terror",
+        "disponible": false
+    },
+    {
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "genero": "Fábula, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "Rayuela",
+        "autor": "Julio Cortázar",
+        "genero": "Ficción experimental",
+        "disponible": true
+    },
+    {
+        "titulo": "Ensayo sobre la ceguera",
+        "autor": "José Saramago",
+        "genero": "Filosófico, Distopía",
+        "disponible": false
+    },
+    {
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "genero": "Distopía, Aventura",
+        "disponible": true
+    },
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "genero": "Fantasía",
+        "disponible": true
+    },
+    {
+        "titulo": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "genero": "Misterio, Thriller",
+        "disponible": true
+    },
+    {
+        "titulo": "It",
+        "autor": "Stephen King",
+        "genero": "Terror",
+        "disponible": false
+    },
+    {
+        "titulo": "Los pilares de la Tierra",
+        "autor": "Ken Follett",
+        "genero": "Histórico, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "genero": "Drama social",
+        "disponible": true
+    },
+    {
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zafón",
+        "genero": "Misterio, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "La Casa de los Espíritus",
+        "autor": "Isabel Allende",
+        "genero": "Realismo Mágico, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "El Nombre de la Rosa",
+        "autor": "Umberto Eco",
+        "genero": "Misterio, Histórico",
+        "disponible": false
+    },
+    {
+        "titulo": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "genero": "Fábula, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "La Metamorfosis",
+        "autor": "Franz Kafka",
+        "genero": "Existencialismo, Surrealismo",
+        "disponible": false
+    },
+    {
+        "titulo": "Siddhartha",
+        "autor": "Hermann Hesse",
+        "genero": "Filosófico, Espiritual",
+        "disponible": true
+    },
+    {
+        "titulo": "Anna Karenina",
+        "autor": "León Tolstói",
+        "genero": "Romance, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "Los Miserables",
+        "autor": "Victor Hugo",
+        "genero": "Drama, Histórico",
+        "disponible": false
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "genero": "Distopía, Ciencia ficción",
+        "disponible": true
+    },
+    {
+        "titulo": "Rebelión en la granja",
+        "autor": "George Orwell",
+        "genero": "Política, Sátira",
+        "disponible": true
+    },
+    {
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "genero": "Filosófico, Gótico",
+        "disponible": false
+    },
+    {
+        "titulo": "Trilogía Fundación",
+        "autor": "Isaac Asimov",
+        "genero": "Ciencia ficción",
+        "disponible": true
+    },
+    {
+        "titulo": "La Carretera",
+        "autor": "Cormac McCarthy",
+        "genero": "Distopía, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "Dr. Jekyll y Mr. Hyde",
+        "autor": "Robert Louis Stevenson",
+        "genero": "Terror, Psicológico",
+        "disponible": false
+    },
+    {
+        "titulo": "Mujercitas",
+        "autor": "Louisa May Alcott",
+        "genero": "Familiar, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "El viejo y el mar",
+        "autor": "Ernest Hemingway",
+        "genero": "Aventura, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "genero": "Experimental, Modernismo",
+        "disponible": false
+    },
+    {
+        "titulo": "El extranjero",
+        "autor": "Albert Camus",
+        "genero": "Filosófico, Existencialismo",
+        "disponible": true
+    },
+    {
+        "titulo": "En el camino",
+        "autor": "Jack Kerouac",
+        "genero": "Contracultura, Aventura",
+        "disponible": true
+    },
+    {
+        "titulo": "American Psycho",
+        "autor": "Bret Easton Ellis",
+        "genero": "Thriller, Psicológico",
+        "disponible": false
+    },
+    {
+        "titulo": "El lobo estepario",
+        "autor": "Hermann Hesse",
+        "genero": "Filosófico, Psicológico",
+        "disponible": true
+    },
+    {
+        "titulo": "El juego de Ender",
+        "autor": "Orson Scott Card",
+        "genero": "Ciencia ficción, Bélico",
+        "disponible": true
+    },
+    {
+        "titulo": "Un mundo feliz",
+        "autor": "Aldous Huxley",
+        "genero": "Distopía, Ciencia ficción",
+        "disponible": false
+    },
+    {
+        "titulo": "La insoportable levedad del ser",
+        "autor": "Milan Kundera",
+        "genero": "Romance, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "El Perfume",
+        "autor": "Patrick Süskind",
+        "genero": "Histórico, Psicológico",
+        "disponible": true
+    },
+    {
+        "titulo": "Las aventuras de Tom Sawyer",
+        "autor": "Mark Twain",
+        "genero": "Infantil, Aventura",
+        "disponible": true
+    },
+    {
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "genero": "Tragedia, Teatro",
+        "disponible": true
+    },
+    {
+        "titulo": "El Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "genero": "Fantasía, Aventura",
+        "disponible": false
+    },
+    {
+        "titulo": "Corazón de las tinieblas",
+        "autor": "Joseph Conrad",
+        "genero": "Aventura, Psicológico",
+        "disponible": true
+    },
+    {
+        "titulo": "Cumbres Borrascosas",
+        "autor": "Emily Brontë",
+        "genero": "Romance, Drama",
+        "disponible": false
+    },
+    {
+        "titulo": "Alicia en el país de las maravillas",
+        "autor": "Lewis Carroll",
+        "genero": "Fantasía, Infantil",
+        "disponible": true
+    },
+    {
+        "titulo": "La Divina Comedia",
+        "autor": "Dante Alighieri",
+        "genero": "Épico, Religioso",
+        "disponible": false
+    },
+    {
+        "titulo": "El hombre en busca de sentido",
+        "autor": "Viktor Frankl",
+        "genero": "Psicología, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "La ladrona de libros",
+        "autor": "Markus Zusak",
+        "genero": "Drama, Histórico",
+        "disponible": false
+    },
+    {
+        "titulo": "La naranja mecánica",
+        "autor": "Anthony Burgess",
+        "genero": "Distopía, Psicológico",
+        "disponible": true
+    },
+    {
+        "titulo": "El castillo",
+        "autor": "Franz Kafka",
+        "genero": "Existencialismo, Absurdismo",
+        "disponible": false
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "genero": "Drama, Tragedia",
+        "disponible": true
+    },
+    {
+        "titulo": "Sobre héroes y tumbas",
+        "autor": "Ernesto Sabato",
+        "genero": "Psicológico, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "Pedro Páramo",
+        "autor": "Juan Rulfo",
+        "genero": "Realismo Mágico, Existencialismo",
+        "disponible": true
+    },
+    {
+        "titulo": "Soy leyenda",
+        "autor": "Richard Matheson",
+        "genero": "Ciencia ficción, Terror",
+        "disponible": false
+    },
+    {
+        "titulo": "Neuromante",
+        "autor": "William Gibson",
+        "genero": "Ciencia ficción, Ciberpunk",
+        "disponible": true
+    },
+    {
+        "titulo": "Crónica de una muerte anunciada",
+        "autor": "Gabriel García Márquez",
+        "genero": "Crimen, Realismo Mágico",
+        "disponible": true
+    },
+    {
+        "titulo": "El corazón de un perro",
+        "autor": "Mijaíl Bulgákov",
+        "genero": "Satírico, Ciencia ficción",
+        "disponible": false
+    },
+    {
+        "titulo": "Tokio Blues",
+        "autor": "Haruki Murakami",
+        "genero": "Romance, Drama",
+        "disponible": true
+    },
+    {
+        "titulo": "Kafka en la orilla",
+        "autor": "Haruki Murakami",
+        "genero": "Fantasía, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "La tregua",
+        "autor": "Mario Benedetti",
+        "genero": "Romance, Drama",
+        "disponible": false
+    },
+    {
+        "titulo": "La historia interminable",
+        "autor": "Michael Ende",
+        "genero": "Fantasía, Aventura",
+        "disponible": true
+    },
+    {
+        "titulo": "El túnel",
+        "autor": "Ernesto Sabato",
+        "genero": "Psicológico, Existencialismo",
+        "disponible": true
+    },
+    {
+        "titulo": "Demian",
+        "autor": "Hermann Hesse",
+        "genero": "Psicológico, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "Las uvas de la ira",
+        "autor": "John Steinbeck",
+        "genero": "Histórico, Social",
+        "disponible": false
+    },
+    {
+        "titulo": "El diario de Ana Frank",
+        "autor": "Ana Frank",
+        "genero": "Biografía, Histórico",
+        "disponible": true
+    },
+    {
+        "titulo": "El Aleph",
+        "autor": "Jorge Luis Borges",
+        "genero": "Filosófico, Fantástico",
+        "disponible": true
+    },
+    {
+        "titulo": "Bajo la misma estrella",
+        "autor": "John Green",
+        "genero": "Romance, Juvenil",
+        "disponible": false
+    },
+    {
+        "titulo": "Mil soles espléndidos",
+        "autor": "Khaled Hosseini",
+        "genero": "Drama, Histórico",
+        "disponible": true
+    },
+    {
+        "titulo": "Cometas en el cielo",
+        "autor": "Khaled Hosseini",
+        "genero": "Drama, Amistad",
+        "disponible": true
+    },
+    {
+        "titulo": "La mecánica del corazón",
+        "autor": "Mathias Malzieu",
+        "genero": "Romántico, Fantasía",
+        "disponible": true
+    },
+    {
+        "titulo": "Carrie",
+        "autor": "Stephen King",
+        "genero": "Terror, Psicológico",
+        "disponible": false
+    },
+    {
+        "titulo": "Solaris",
+        "autor": "Stanisław Lem",
+        "genero": "Ciencia ficción, Filosófico",
+        "disponible": true
+    },
+    {
+        "titulo": "La muerte de Iván Ilich",
+        "autor": "León Tolstói",
+        "genero": "Filosófico, Existencial",
+        "disponible": true
+    },
+    {
+        "titulo": "El arte de la guerra",
+        "autor": "Sun Tzu",
+        "genero": "Estrategia, Filosofía",
+        "disponible": true
+    },
+    {
+        "titulo": "Así habló Zaratustra",
+        "autor": "Friedrich Nietzsche",
+        "genero": "Filosófico",
+        "disponible": false
+    },
+    {
+        "titulo": "Ensayo sobre la lucidez",
+        "autor": "José Saramago",
+        "genero": "Filosófico, Político",
+        "disponible": true
+    }
+]
