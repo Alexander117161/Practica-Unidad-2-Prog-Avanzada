@@ -16,20 +16,21 @@ INSTALACIÓN:
   2. Organiza las carpetas:
      
      Práctica Unidad 2 Prog Avanzada/
-├── main.py
-├── vistas/
-│   ├── inicio_view.py
-│   ├── busqueda_view.py
-│   ├── prestamo_view.py
-│   └── administracion_view.py
-├── controladores/
-│   └── controlador.py
-├── modelos/
-│   └── libro.py
-|   └──prestamo.py
-└── data/
-    └── libros.json
-3. Asegúrate de tener el archivo de datos libros.json dentro de la carpeta data/, que es donde se almacenarán los libros de la biblioteca.
+  main.py
+  vistas/
+      inicio_view.py
+      busqueda_view.py
+      prestamo_view.py
+      administracion_view.py
+  controladores/
+      controlador.py
+  modelos/
+      libro.py
+      prestamo.py
+  data/
+      libros.json
+     
+4. Asegúrate de tener el archivo de datos libros.json dentro de la carpeta data/, que es donde se almacenarán los libros de la biblioteca.
 
 
 EJECUCIÓN:
